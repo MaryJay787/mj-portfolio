@@ -1,0 +1,23 @@
+{
+  "name": "mj-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "maryjay787",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MaryJay787/mj-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaryJay787/mj-portfolio/issues"
+  },
+  "homepage": "https://github.com/MaryJay787/mj-portfolio#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
